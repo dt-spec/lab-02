@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Devkumar Tiwari
+- **CCID:** 1735931
 
 ## References and Resources
 
